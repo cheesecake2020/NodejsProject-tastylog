@@ -11,11 +11,6 @@ module.exports = {
     "ecmaVersion": 12
   },
   "rules": {
-    "indent": [
-      "error",
-      2,
-      { "SwitchCase": 1 }
-    ],
     "quotes": [
       "error",
       "double"

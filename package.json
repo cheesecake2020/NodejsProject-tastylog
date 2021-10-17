@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cheesecake2020/tastylog.git"
+    "url": "git+https://github.com/cheesecake2020/NodejsProject-tastylog.git"
   },
   "author": "Nina Harada",
   "license": "MIT",
@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
+    "log4js": "^6.3.0",
     "serve-favicon": "^2.5.0"
   }
 }
